@@ -1,7 +1,7 @@
 # love_letter
 
-### ECX Internship task
-# team10-week1
+### A simple flutter app that uses Firebase for remote storage
+
 Link to [Apk](https://github.com/ECX-Unilag/team10-week1/blob/master/release/app-release.apk)
 ## Mobile App Screenshots
 | - | - | - |
